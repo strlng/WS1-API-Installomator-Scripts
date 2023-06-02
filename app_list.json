@@ -1,0 +1,92 @@
+{
+"applications":[
+	{
+		"Name": "Adobe Creative Cloud",
+		"InstallomatorFragment": "adobecreativeclouddesktop",
+		"AppPath":"/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app"
+	},
+	{
+		"Name": "Audacity",
+		"InstallomatorFragment": "audacity",
+		"AppPath": "/Applications/Audacity.app"
+		
+	},
+	{
+		"Name": "Box Drive",
+		"InstallomatorFragment": "boxdrive",
+		"AppPath": "/Applications/Box.app"
+		
+	},
+	{
+		"Name": "Firefox",
+		"InstallomatorFragment": "firefoxpkg",
+		"AppPath": "/Applications/Firefox.app"
+		
+	},
+	{
+		"Name": "Google Chrome",
+		"InstallomatorFragment": "googlechromepkg",
+		"AppPath": "/Applications/Google Chrome.app"
+	},
+	{
+		"Name": "Microsoft Excel",
+		"InstallomatorFragment": "microsoftexcel",
+		"AppPath": "/Applications/Microsoft Excel.app"
+	},
+	{
+		"Name": "Microsoft OneDrive",
+		"InstallomatorFragment": "microsoftonedrive",
+		"AppPath": "/Applications/OneDrive.app"
+	},
+	{
+		"Name": "Microsoft Outlook",
+		"InstallomatorFragment": "microsoftoutlook",
+		"AppPath": "/Applications/Microsoft Outlook.app"
+	},
+	{
+		"Name": "Microsoft PowerPoint",
+		"InstallomatorFragment": "microsoftpowerpoint",
+		"AppPath": "/Applications/Microsoft PowerPoint.app"
+	},
+	{
+		"Name": "Microsoft Teams",
+		"InstallomatorFragment": "microsoftteams",
+		"AppPath": "/Applications/Microsoft Teams.app"
+	},
+	{
+		"Name": "Microsoft Word",
+		"InstallomatorFragment": "microsoftword",
+		"AppPath": "/Applications/Microsoft Word.app"
+	},
+	{
+		"Name": "NVivo",
+		"InstallomatorFragment": "nvivo",
+		"AppPath": "/Applications/NVivo.app"
+	},
+	{
+		"Name": "R",
+		"InstallomatorFragment": "r",
+		"AppPath": "/Applications/R.app"
+	},
+	{
+		"Name": "RStudio",
+		"InstallomatorFragment": "rstudio",
+		"AppPath": "/Applications/RStudio.app"
+	},
+	{
+		"Name": "VLC",
+		"InstallomatorFragment": "vlc",
+		"AppPath": "/Applications/VLC.app"
+	},
+	{
+		"Name": "Webex",
+		"InstallomatorFragment": "webex",
+		"AppPath": "/Applications/Webex.app"
+	},
+	{
+		"Name": "Zoom",
+		"InstallomatorFragment": "zoom",
+		"AppPath": "/Applications/zoom.us.app"
+	}
+	]
+}
